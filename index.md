@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Red rápida de alerta de terremotos
 
 You can use the [editor on GitHub](https://github.com/juansotomayor/RedAlertaRapida/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Centro de Catástrofes. CIMCN. Facultad de Ingeniería, Universidad de Antofagasta.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
